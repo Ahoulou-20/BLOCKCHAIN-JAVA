@@ -1,0 +1,42 @@
+/* Style pour le label principal */
+.label {
+
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #121619; /* Bleu */
+
+}
+.label.option{
+    -fx-font-size: 20px;
+
+}
+
+/* Style par défaut pour les boutons */
+.button {
+    -fx-background-color: #F77F00; /* Bleu ciel */
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+/* Style spécifique pour le bouton "Quitter" */
+.button.quitter {
+    -fx-background-color: #D62828; /* Rouge */
+}
+
+/* Style pour la zone de texte */
+.text-area {
+    -fx-control-inner-background: #f5f5f5; /* Gris clair */
+    -fx-font-size: 15px;
+    -fx-border-color: #909CC2; /* Gris */
+    -fx-border-radius:1%;
+}
+
+/* Style pour le conteneur principal */
+.vbox {
+    -fx-padding: 10px 20px;
+    -fx-background-color: #084887; /* Bleu très clair */
+        -fx-border-radius: 2%;
+}
