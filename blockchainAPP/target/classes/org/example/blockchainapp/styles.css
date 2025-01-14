@@ -37,6 +37,6 @@
 /* Style pour le conteneur principal */
 .vbox {
     -fx-padding: 10px 20px;
-    -fx-background-color: #084887; /* Bleu très clair */
+    -fx-background-color: #41ead4; /* Vert actuellement 084887 Bleu très clair */
         -fx-border-radius: 2%;
 }
